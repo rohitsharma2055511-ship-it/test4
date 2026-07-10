@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohitsharma2055511-ship-it/test4/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/rohitsharma2055511-ship-it/test4/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rohitsharma2055511-ship-it/test4/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1095-find-in-mountain-array](https://github.com/rohitsharma2055511-ship-it/test4/tree/master/1095-find-in-mountain-array) |
@@ -20,6 +21,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohitsharma2055511-ship-it/test4/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/rohitsharma2055511-ship-it/test4/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rohitsharma2055511-ship-it/test4/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1095-find-in-mountain-array](https://github.com/rohitsharma2055511-ship-it/test4/tree/master/1095-find-in-mountain-array) |
