@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rohitsharma2055511-ship-it/test4/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1095-find-in-mountain-array](https://github.com/rohitsharma2055511-ship-it/test4/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rohitsharma2055511-ship-it/test4/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/rohitsharma2055511-ship-it/test4/tree/master/1672-richest-customer-wealth) |
 ## Matrix
@@ -19,4 +20,9 @@
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rohitsharma2055511-ship-it/test4/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1095-find-in-mountain-array](https://github.com/rohitsharma2055511-ship-it/test4/tree/master/1095-find-in-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/rohitsharma2055511-ship-it/test4/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
